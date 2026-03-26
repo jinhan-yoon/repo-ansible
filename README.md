@@ -1,2 +1,2 @@
 # repo-ansible
-ansibel 레포지토리
+ansible 레포지토리
